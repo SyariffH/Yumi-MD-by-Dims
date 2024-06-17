@@ -1,6 +1,7 @@
 # Yumi-MD-by-Dims
-<img src="yumi.png"/>
-
+<p align="center">
+  <img width=80% src="yumi.png"/>
+</p>
 # Sumber
 https://whatsapp.com/channel/0029VaDs0ba1SWtAQnMvZb0U/307
 
