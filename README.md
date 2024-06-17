@@ -3,7 +3,9 @@
   <img width=80% src="yumi.png"/>
 </p>
 # Sumber
-https://whatsapp.com/channel/0029VaDs0ba1SWtAQnMvZb0U/307
+<li>
+  <b>https://whatsapp.com/channel/0029VaDs0ba1SWtAQnMvZb0U/307 </b>
+</li>
 
 # Note
 <li>
